@@ -30,3 +30,12 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Python
+venv/
+
+# VS Code
+.censitive
+
+# JOMM
+config.json

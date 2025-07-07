@@ -33,6 +33,7 @@ go.work.sum
 
 # Python
 venv/
+__pycache__/
 
 # VS Code
 .censitive
